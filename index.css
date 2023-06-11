@@ -1,0 +1,104 @@
+.offer {
+  margin-top: 1rem;
+}
+
+.carousel-image {
+  height: 400px;
+  object-fit: cover;
+}
+
+.product-card-image {
+  height: 150px;
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.product-card img {
+  max-height: 100px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.product-card-upper img {
+  max-height: 100px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-body {
+  height: 180px;
+}
+
+ion-icon {
+  font-size: 32px;
+}
+
+.logo {
+  height: 200px;
+  width: 200px;
+}
+
+.cart-icon {
+  height: 28px;
+}
+
+.newsletter {
+  margin-top: 1.5rem;
+  margin-left: 1rem;
+  width: 200px;
+}
+
+.social-media {
+  margin-top: 8px;
+  margin-right: 20px;
+}
+
+#aluno {
+  margin-top: 32px;
+  margin-bottom: 64px;
+}
+
+.text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+#product-image {
+  height: 600px;
+}
+
+.product-card-search {
+  height: 350px;
+  width: 300px;
+}
+
+.product-card-search img {
+  height: 150px;
+  width: 250px;
+  object-fit: cover;
+  align-self: center;
+}
+
+.description-container {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+#cards {
+  margin-top: 20px;
+  margin-left: 2px;
+}
+
+.results {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
