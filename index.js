@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $.get(
-    'https://diwserver.vps.webdock.cloud/products/category/Accessories - Jewellery?page_items=10',
+    'https://diwserver.vps.webdock.cloud/products/category/Accessories - Jewellery?page_items=21',
     function (data) {
       var products = data.products;
       var productCards = $('.product-card');
